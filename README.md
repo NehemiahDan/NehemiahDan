@@ -1,6 +1,9 @@
-A Software Engineer who specializes in using software engineering tools to help organizations change the world.
+🚀 Web Developer | SEO Expert | Digital Strategist
+I specialize in creating high-performing, user-friendly websites that not only look great but also rank high on search engines. With a strong foundation in front-end and back-end development, I build fast, responsive, and SEO-optimized websites that drive traffic and conversions.
 
-I've spent the last few years working on a number of amazing projects: landing pages, a browser extension, school management software, community websites, and an online conference app for event planners. I'm in the top 0.8% of active GitHub users in my country, which is a small brag but something I'm really proud of.
+🔹 Web Development – Crafting modern, scalable, and mobile-friendly websites using HTML, CSS, JavaScript, React, WordPress, and more.
+🔹 SEO & Digital Marketing – Implementing on-page and off-page SEO strategies, keyword research, technical SEO, and content optimization to boost online visibility.
+🔹 Performance & Optimization – Enhancing website speed, UX, and accessibility to improve search rankings and user engagement.
 
 I've developed extensive knowledge in: Front-End: JavaScript | React | Typescript | NextJs | Redux | jQuery | HTML5 | CSS3 | SASS | Tailwind Back-End: MySQL | Nodejs | Express | MongoDB Tools & Methods: Git | GitHub | Heroku | Netlify | Mobile/Responsive Development | TDD | Chrome Dev Tools | Webpack. Professional: Advanced Technical Writing | Documentation | Remote Pair-Programming | Teamwork | Mentoring | Project Management.
 
